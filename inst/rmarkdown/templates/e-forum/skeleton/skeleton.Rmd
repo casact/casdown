@@ -1,0 +1,25 @@
+---
+title: "E-forum document"
+author: "Your Name(s) and designation(s)"
+date: "Month, Day Year"
+knit: casdown::knit_cas_article
+output: casdown::eforum_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Main section
+
+## Sub-section
+
+### Sub-subsection
+
+# References
+
+<div id="refs"></div>
+
+# Appendix
+
+We may place one or more appendix sections after the bibliography.
